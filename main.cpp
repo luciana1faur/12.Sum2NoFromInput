@@ -10,10 +10,10 @@ int main() {
   cout << "Introduceti al doilea numar: ";
   cin >> b;
 
-  suma = a +b;
+  //suma = a +b;
 
-  cout << "Suma numerelor a si b este: " << suma << endl;
+  cout << "Suma numerelor a si b este: " << a + b << endl;
 
   return 0;
-  
+
 }
